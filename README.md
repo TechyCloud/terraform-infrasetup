@@ -7,6 +7,10 @@ Terraform is an Infrastructure as a Code product. In this article, we are going 
 - AWS CLI
 - IAM Access Key & Secret Key
 
+## Terraform Installation
+
+Please followup the [here](https://github.com/TechyCloud/terraform-installation.git) for **Terraform** installation.
+
 **This module will launching the below resources as per given veriables in the AWS console.**
 - VPC
 - Application LoadBalancer
