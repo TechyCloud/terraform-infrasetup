@@ -45,7 +45,7 @@ private_subnets_Zone = ["ap-south-1b", "ap-south-1b"]
 
 Now, You can successfully updated the code to setup the VPC.
 
-## Application LoadBalancer
+## Application LoadBalancer Creation
 
 In the same **main.tf** file you need to update the variables to create a Application LoadBalancer.
 
