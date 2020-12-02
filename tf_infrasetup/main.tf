@@ -12,6 +12,8 @@ public_subnets_cidr = ["10.20.1.0/24", "10.20.2.0/24"]
 public_subnets_Zone = ["ap-south-1a", "ap-south-1a"]
 private_subnets_cidr = ["10.20.3.0/24", "10.20.4.0/24"]
 private_subnets_Zone = ["ap-south-1b", "ap-south-1b"]
+public_subnets_name = ["NonProd-Public-01", "NonProd-Public-02"]
+private_subnets_name = ["NonProd-APP-01", "NonProd-APP-02"]
 }
 
 #This Module Will Creating the ALB
