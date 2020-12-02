@@ -28,3 +28,9 @@ variable "private_subnets_cidr" {
 variable "private_subnets_Zone" {
   type = "list"
 }
+variable "public_subnets_name" {
+  type = "list"
+}
+variable "private_subnets_name" {
+  type = "list"
+}
